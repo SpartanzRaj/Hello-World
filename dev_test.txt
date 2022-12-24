@@ -1,1 +1,5 @@
-Added some features in dev
+<<<<<<< HEAD
+Added some features in dev-2
+=======
+Added some features in DEV
+>>>>>>> dev2
